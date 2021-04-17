@@ -42,10 +42,6 @@ textarea {
   margin: 5px;
 }
 
-.part {
-  cursor: pointer;
-}
-
 .part.param {
   margin-left: 30px;
 }
